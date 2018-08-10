@@ -12,4 +12,4 @@ The player can insert or remove objects from the backpack.<br />
 The removed objects are left in the room where the player was at the time of removal.<br />
 One of the objects is a key used to open a door. <br />
 The goal is to arrive at the library.<br />
-The description above is not complete.<br />
+The above description is not complete and should be made better.<br />
