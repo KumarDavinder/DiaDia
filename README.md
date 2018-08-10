@@ -1,7 +1,7 @@
 # DiaDia
 Project in the Object-Oriented Programming course
 
-DiaDia is a game that is implemented during the Java programming course at Roma Tre University to learn <br />object-oriented 
+DiaDia is a game implemented during the Java programming course at Roma Tre University to learn object-oriented 
 programming.<br />
 In this game the player moves between the university rooms and carries a backpack.<br />
 In the backpack is possible to insert objects that are found in the rooms.<br />
